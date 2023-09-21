@@ -46,4 +46,4 @@ console.log(soma(1)) // incorreto
 
 `node dist/server.js`
 
-` "outDir": "./dist", `# ignite-node-03-api
+` "outDir": "./dist", `
